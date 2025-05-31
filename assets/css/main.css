@@ -84,7 +84,7 @@ input, select, textarea {
 	body {
 		background: #D4D9DD url("images/bg03.jpg");
 		color: #474f51;
-		font-size: 13.5pt;
+		font-size: 11.0pt;
 		font-family: 'Arial';
 		line-height: 1.85em;
 		font-weight: 300;
@@ -92,7 +92,7 @@ input, select, textarea {
 
 	input, textarea, select {
 		color: #474f51;
-		font-size: 13.5pt;
+		font-size: 11.0pt;
 		font-family: 'Arial';
 		line-height: 1.85em;
 		font-weight: 300;
